@@ -1,6 +1,7 @@
 # Unity Based VR Head Gesture Recognition
 Basic Unity application to recognise when simple Head based gestures (Nodding/ Shaking of Head) are used.
 (Based on the Leading Ones Head-Based Gestures Recognition with GoogleVR Cardboard Video: https://www.youtube.com/watch?v=3icqAJnZF8Y).
+
 Also has a script that allows the mouse to act as a stand-in input for the recognition if no VR headset is available.
 
 # Version Of Software Used
