@@ -10,6 +10,7 @@ Also has a script that allows the mouse to act as a stand-in input for the recog
 
 # Hardware Used
 Used with the Oculus Rift (No Oculus Touch Controller(s)/ Xbox Controller).
+
 Attempt was made with the HTC Vive but did not seem to respond to Unity, more testing is required to know whether it was Unity or the Project itself.
 
 # Purpose For Creation
